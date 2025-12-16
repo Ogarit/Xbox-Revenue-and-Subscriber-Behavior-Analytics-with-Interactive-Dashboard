@@ -13,11 +13,7 @@ O objetivo é demonstrar habilidades em **análise de dados**, **modelagem anal�
 
 ## 🧠 Perguntas de Negócio Respondidas
 
-- Qual plano gera maior valor financeiro?
-- Qual é o impacto dos passes adicionais no valor final do assinante?
-- Assinantes com renovação automática geram mais receita?
-- Como os cupons influenciam o valor consolidado?
-- Qual é o perfil de maior ticket médio?
+- 
 
 ## 📁 Estrutura dos Dados
 
