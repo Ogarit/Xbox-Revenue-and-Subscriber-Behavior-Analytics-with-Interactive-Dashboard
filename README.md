@@ -13,7 +13,10 @@ O objetivo é demonstrar habilidades em **análise de dados**, **modelagem anal�
 
 ## 🧠 Perguntas de Negócio Respondidas
 
-- 
+- Qual faturamento Total de Vendas de Planos Anuais (contendo todas as assinaturas agregadas)?
+- Qual Faturamento Total de Vendas de Planos Anuais, separado por Auto Renovação Não é por Auto Renovação?
+- Total de Vendas de Assinatura do EA Play
+- Total de Vendas de Assinatura do Minecraft Season Pass
 
 ## 📁 Estrutura dos Dados
 
